@@ -18,3 +18,6 @@ Como Funciona
 A animação é construída usando a propriedade @keyframes do CSS, que permite definir as etapas da animação. Diferentes partes do alien, como os olhos, braços e corpo, são animadas separadamente para criar uma ilusão de movimento.
 
 <img src="gif/Design sem nome (6).gif">
+
+link CodePen
+https://codepen.io/Claudio-Fatec
