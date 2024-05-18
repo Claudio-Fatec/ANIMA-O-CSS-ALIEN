@@ -16,3 +16,5 @@ HTML: Para a estrutura da página.
 CSS: Para o estilo e a animação.
 Como Funciona
 A animação é construída usando a propriedade @keyframes do CSS, que permite definir as etapas da animação. Diferentes partes do alien, como os olhos, braços e corpo, são animadas separadamente para criar uma ilusão de movimento.
+
+https://github.com/Claudio-Fatec/ANIMA-O-CSS-ALIEN/blob/main/gif/Anima%C3%A7%C3%A3o%20em%20CSS%20-%20Google%20Chrome%202024-05-18%2010-06-43.gif
